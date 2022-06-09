@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1034162803646",
+    "firebase_url": "https://inicio-1a3ab-default-rtdb.firebaseio.com",
+    "project_id": "inicio-1a3ab",
+    "storage_bucket": "inicio-1a3ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034162803646:android:3002c52dc58c58d9c65fef",
+        "android_client_info": {
+          "package_name": "com.mycompany.act8firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034162803646-0k7plqaasc2nmt87ner4916ctni2vbpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHKAZfPgBOSTEmxo_1O14IijtjjDcxxnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034162803646-0k7plqaasc2nmt87ner4916ctni2vbpr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1034162803646-jv7kkfqhh4tnpsd0d2955vgkr1h1dbp7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.act8firebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
